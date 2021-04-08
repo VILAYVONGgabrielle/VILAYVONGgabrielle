@@ -3,7 +3,9 @@
 # ![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/programming4.png)
 <hr>
 Développeuse web, passionnée par le domaine informatique et curieuse des nouvelles technologies, c'est avec une grande motivation que je souhaite partager mes connaissances et compétences. <br>
-Actuellement, je développe sur les technologies: <br>
+Actuellement, je développe sur les technologies: 
+
+<hr>
 
 Front-end: <br>
 
