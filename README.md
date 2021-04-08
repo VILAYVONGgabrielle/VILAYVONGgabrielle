@@ -39,7 +39,16 @@ j'ai réalisé un premier projet en PHP avec le framework CI4 en utilisant Uwamp
 ![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/CI4.png)
 ![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/uwamp1.png)
 
-le nom de mon projet est Un Jour, Une BD... un site e-commerce dont vous trouverez la réalisation en vidéo sur le lien <a href="https://whire.me/@vilayvongGab">Whire</a>
+le nom de mon projet est Un Jour, Une BD... un site e-commerce dont vous trouverez la réalisation en vidéo sur le lien <a href="https://whire.me/@vilayvongGab">Whire</a><br>
+ci-dessous un aperçu en image du site Un Jour, Une BD...
+![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/accueil.JPG) 
+
+<br>
+Pour réaliser ce projet, un cahier des charges a été demandé, j'ai utilisé les outils: <br>
+
+![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/balsamiq.png)  pour le maquettage <br>
+![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/startuml.png)  pour établir les différents diagrammes
+
 
 <hr>
 
