@@ -41,8 +41,19 @@ le nom de mon projet est Un Jour, Une BD... un site e-commerce dont vous trouver
 
 <hr>
 
-Pour monter en compétence, je suis entrain de m'autoformer sur C# et Angular: <br>
+Pour monter en compétence et parce que j'ai aussi une appétence pour apprendre, je suis entrain de m'autoformer sur C# et Angular: <br>
+![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/csharp.png) 
 ![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/angular.png)
+![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/vs2019.png) 
 
+<hr>
+
+Mon parcours professionnel m'a permis d'acquérir de réelles compétences et un savoir être pour m'adapter facilement à une organisation de travail, comme à me mettre au service d'une équipe, d'un projet. Responsable, proactive, je sais aussi être à l'écoute.
+Pour en savoir plus, vous pouvez me contacter par mail : <br>
+ [![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/email.png)](mailto:vilayvonggabrielle@gmail.com)
+<br>
+ou sur
+<br>
+<a href="https://www.linkedin.com/in/gabrielle-vilayvong">![VILAYVONGgabrielle](https://github.com/VILAYVONGgabrielle/VILAYVONGgabrielle/blob/main/in.png) </a>
 
 
